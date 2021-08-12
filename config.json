@@ -1,0 +1,9 @@
+
+{
+    "MongodbServerIP" : "127.0.0.1",
+    "DBName":"Leapsy_clock_in_system",
+    "Collection":"records",
+    "StartDate" : "20210111",
+    "EndDate" : "20210120",
+    "FolderPath":"\\\\leapsy-nas3\\CheckInRecord\\"
+}
